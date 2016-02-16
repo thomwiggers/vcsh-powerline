@@ -1,0 +1,9 @@
+*
+!/.config
+!/.config/powerline
+!/.config/powerline/**
+!/.config/systemd
+!/.config/systemd/user
+!/.config/systemd/user/powerline-daemon.service
+!/.gitignore.d
+!/.gitignore.d/powerline
